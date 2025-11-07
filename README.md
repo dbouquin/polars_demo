@@ -1,1 +1,1 @@
-# polars_demo
+# Polars things to know
